@@ -24,6 +24,9 @@ nos [machines](hardware.md).
 
 ## Quelles sont nos motivations?
 
+Dans le cadre d’un centre de super-calcul à l'échelle régionale,
+les relations humaines importent plus que la puissance du calculateur mise à disposition.
+
 ### Sensibiliser au calcul
 Le calcul prend une part de plus en plus importante dans l'informatique actuelle,
 et par incidence dans notre monde. Les entreprises ont amélioré leur productivité
