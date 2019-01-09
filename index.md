@@ -2,13 +2,9 @@
 title: Un mésocentre en Morbihan
 ---
 
-# Algoric, un mésocentre HPC* en Bretagne
-** High Performance Computing
-
-[C'est quoi un mésocentre HPC?](definitions.md)
-
 Algoric est un projet de mésocentre au sein d'un fablab, [La Fabrique du Loch](http://www.lafabriqueduloch.org)
 à Auray, dans le Morbihan, une aventure humaine palpitante pour un projet inédit!
+[C'est quoi un mésocentre HPC?](definitions.md)
 
 Sur la base de son expertise dans le domaine du super-calcul, un membre du fablab
 a proposé de sensibiliser les membres de l'association au super-calcul par la gestion
@@ -18,7 +14,7 @@ sur des structures, du routage.
 L'assocation peut se fournir en matériel auprès de centres de super-calcul désireux
 de recycler le matériel amorti.
 
-## Ce matériel a besoin d'une maison!
+# Ce matériel a besoin d'une maison!
 Nous cherchons une salle informatique entre Vannes et Lorient qui pourrait héberger
 nos [machines](hardware.md).
 
