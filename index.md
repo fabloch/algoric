@@ -44,20 +44,14 @@ Avec une infrastructure simple et locale, gérée par un expert du super-calcul,
 ce projet permet l'accès à des ressources inaccessibles dans les centres publics;
 Les infrastructures commerciales ne proposent pas d'accompagnement.
 
-[Les missions d'un centre régional](missions.md)
-
-
-
 Pour aller plus loin:
 - [Le super-calcul](definitions.md)
-- [Un mésocentre au sein d'un fablab](etapes.md)
+- [Les missions d'un centre régional](missions.md)
+
+Le projet Algoric:
+- [Le hardware](hardware.md)
+- [Le software](software.md)
 - [Des compétences](competences.md)
 
 Nous cherchons aujourd'hui un local pour accueillir nos machines.
 - [Les besoins](besoins.md)
-
-- [Le hardware](hardware.md)
-- [Le software](software.md)
-
-Une aventure au sein d'un fablab citoyen
-- [Quels atouts pour un fablab](atouts.md)
