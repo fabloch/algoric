@@ -1,9 +1,15 @@
-# Missions d’un Centre Régional
+# Missions d’un centre au sein d'un Fablab
 
-L’accès aux centres nationaux / internationaux est réservé aux acteurs de la recherche publique.
-Les Centres Régionaux sont généralement les seuls super calculateurs accessibles aux entreprises
-n’ayant pas les moyens financiers ou humains d’en posséder. Mais leur usage est encadré par la
-mise en place de conventions parfois lourdes à mettre en oeuvre.
+Dans le cadre d’un MesoCentre, l’aspect humain importe plus que la puissance du calculateur à disposition.
+
+Il est à noter que l’accès aux centres nationaux/internationaux est réservé aux acteurs de la recherche publique.
+Les MésoCentres sont généralement les seuls super calculateurs accessibles aux entreprises n’ayant pas les moyens financiers ou humains d’en posséder.
+La plupart des MésoCentres naissent dans les universités, mais une partie émerge d’associations (CRIANN de Normandie par exemple).
+
+Les missions d'un mésocentre régional sont:
+- Former les utilisateurs à l’usage des super calculateurs, mais aussi les accompagner dans la transformation de leurs pratiques et de leurs codes de calcul vers un usage de masse selon leurs algorithmes (dit exécution parallèle).
+- Mettre à disposition des laboratoires, universités, écoles, PME, particuliers, etc. des ressources de super calcul.
+- Permettre à des PME d’accéder à des serveurs puissants moyennant un faible cout et ainsi accroitre leur potentiel de marché.
 
 ## A l’échelle locale
 
@@ -39,11 +45,11 @@ supportés par la région Bretagne (cyber-défense).
 # Autres Missions
 
 ## Centre de calcul d’intérêt général
-- Fournir des ressources de calcul pour les collectivités publiques,
+- Fournir des ressources de calcul pour les collectivités publiques
 - Fournir des ressources ponctuelles en cas d’urgence (calculs de crues, humanitaire, etc)
 - Aider dans l’usage du cloud
-- Aider dans le traitement des données
+- Aider dans le traitement des données publiques (intégration de données provenant des territoires locaux)
 
-## Renforcer la sensibilisation au "Green Computing"
+## Sensibiliser au "Green Computing"
 - Mettre en avant le « Green Computing », en optimisant de bout en bout des calculs aujourd'hui trop dispendieux.
 L'énergie électrique est le coût principal du calcul.
