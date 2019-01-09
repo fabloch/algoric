@@ -5,8 +5,7 @@ Les Centres Régionaux sont généralement les seuls super calculateurs accessib
 n’ayant pas les moyens financiers ou humains d’en posséder. Mais leur usage est encadré par la
 mise en place de conventions parfois lourdes à mettre en oeuvre.
 
-## A l’échelle locale:
-
+## A l’échelle locale
 
 ### Fournir des ressources aux collectivités
 - Serveurs pour les médiathèques
@@ -18,25 +17,18 @@ mise en place de conventions parfois lourdes à mettre en oeuvre.
 ### Attractivité, savoir faire
  - Conférences, forums, séminaires
 
-C’est aussi une ressource sur le territoire local et souvent très compétitive financièrement.
+## A l’échelle régionale
 
-## A l’échelle régionale :
+### Pour les entreprises, PME
+- Offrir un accompagnement au super-calcul aux entreprises adhérentes.
+- Sensibiliser les entreprises au green-computing
 
-### Fournir des ressources aux :
+### Pour les laboratoires universitaires
+- Offrir des ressources accessibles aux laboratoires des universités locales, en profitant de la proximité avec le fablab.
 
-#### Entreprises, PME
-Offrir un accompagnement au super-calcul aux entreprises adhérentes.
-Sensibiliser les entreprises au green-computing
-
-#### Laboratoires
-Offrir des ressources accessibles aux laboratoires des universités locales, en profitant de la proximité avec le fablab.
-
-### Avantage de compétitivité
-Un centre de calcul permet aux entreprises locales de plus facilement utiliser ces techniques.
-
-### Attractivité de la région
+### Pour le territoire
 Le super-calcul est un secteur stratégique concomitant avec des domaines du numérique
-supportés par la région comme la cyber-défense.
+supportés par la région Bretagne (cyber-défense).
 
 ## A l’échelle nationale/internationale :
 - Diffuser et partager les connaissances
