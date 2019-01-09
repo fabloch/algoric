@@ -1,4 +1,3 @@
-
 ---
 title: Un mésocentre en Morbihan
 ---
@@ -17,3 +16,12 @@ de recycler le matériel amorti.
 Pour aller plus loin:
 - [Le super-calcul](definitions.md)
 - [Les missions d'un centre régional](missions.md)
+- [Les compétences](competences.md)
+
+Nous cherchons aujourd'hui un local pour accueillir nos machines.
+- [Les besoins](besoins.md)
+
+- [Les étapes](etapes.md)
+
+- [Le hardware](hardware.md)
+- [Le software](software.md)
