@@ -13,8 +13,7 @@ On peut donc afficher des prix similaires, en dégageant une marge.
 
 Bien entendu, cette étude demanderait à être affinée.
 
-
+Charges
 coût du recyclage
-
-- maintenance ( pièces ): provisions à prévoir;
-- coût d’administration ( Benoit pour commencer, mais quid si il arrête ou lève le pied pour X raison).
+maintenance ( pièces ): provisions à prévoir;
+coût d’administration ( Benoit pour commencer, mais quid si il arrête ou lève le pied pour X raison).
