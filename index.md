@@ -11,8 +11,11 @@ a proposé de sensibiliser les membres de l'association au super-calcul par la g
 de serveurs dédiés. Quelques uns de nos adhérents utilisent déjà le super-calcul pour des simulations d'effort
 sur des structures, du routage.
 
-L'assocation peut se fournir en matériel auprès de centres de super-calcul désireux
+L'association peut se fournir en matériel auprès de centres de super-calcul désireux
 de recycler le matériel amorti.
+
+![Hardware](assets/images/mesca.jpg)
+
 
 # Ce matériel a besoin d'une maison!
 Nous cherchons **une salle informatique** entre Vannes et Lorient qui pourrait héberger
