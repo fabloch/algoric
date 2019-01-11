@@ -47,7 +47,7 @@ Pour aller plus loin:
 - [Le super-calcul](definitions.md)
 - [Les missions d'un centre régional](missions.md)
 
-Le projet Algoric:
+# Le projet Algoric en détails
 - [Le hardware](hardware.md)
 - [Le software](software.md)
 - [Des compétences](competences.md)
