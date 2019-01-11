@@ -1,8 +1,8 @@
 ---
-title: Un mésocentre en Morbihan
+title: Un mésocentre HPC en Morbihan
 ---
 
-Algoric est un projet de mésocentre au sein d'un fablab, [La Fabrique du Loch](http://www.lafabriqueduloch.org)
+Algoric est un projet de **mésocentre HPC** au sein d'un fablab, [La Fabrique du Loch](http://www.lafabriqueduloch.org)
 à Auray, dans le Morbihan, une aventure humaine palpitante pour un projet inédit!
 [C'est quoi un mésocentre HPC?](definitions.md)
 
@@ -15,7 +15,7 @@ L'assocation peut se fournir en matériel auprès de centres de super-calcul dé
 de recycler le matériel amorti.
 
 # Ce matériel a besoin d'une maison!
-Nous cherchons une salle informatique entre Vannes et Lorient qui pourrait héberger
+Nous cherchons **une salle informatique** entre Vannes et Lorient qui pourrait héberger
 nos [machines](hardware.md).
 
 ## Quelles sont nos motivations?
