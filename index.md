@@ -14,15 +14,11 @@ sur des structures, du routage.
 L'association peut se fournir en matériel auprès de centres de super-calcul désireux
 de recycler le matériel amorti.
 
-![Hardware](assets/images/mesca.jpg)
-
-
 # Ce matériel a besoin d'une maison!
 Nous cherchons **une salle informatique** entre Vannes et Lorient qui pourrait héberger
 nos [machines](hardware.md).
 
 ## Quelles sont nos motivations?
-
 Dans le cadre d’un centre de super-calcul à l'échelle régionale,
 les relations humaines importent plus que la puissance du calculateur mise à disposition.
 
